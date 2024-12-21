@@ -11,7 +11,7 @@ namespace Tyuiu.RyabtsevNE.Sprint6.Task0.V12.Lib
             if (Math.Pow(4 * x * x - 3, 0.5) == 0)
                 y = 0000;
             y = Math.Round(y, 3);
-            return y:
+            return y;
         }
     }
 }
